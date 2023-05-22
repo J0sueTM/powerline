@@ -1,3 +1,6 @@
 [submodule "lib/sdl2"]
 	path = lib/sdl2
 	url = https://github.com/libsdl-org/SDL
+[submodule "lib/nuklear"]
+	path = lib/nuklear
+	url = https://github.com/Immediate-Mode-UI/Nuklear
