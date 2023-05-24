@@ -4,3 +4,6 @@
 [submodule "lib/nuklear"]
 	path = lib/nuklear
 	url = https://github.com/Immediate-Mode-UI/Nuklear
+[submodule "lib/log.c"]
+	path = lib/log.c
+	url = https://github.com/rxi/log.c.git
